@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/williamtrimmer/Library/Mobile Documents/com~apple~CloudDocs/school/2017_2018/spring_2018/ece_4122/exercises/e2/c2.cc
+
+/Users/williamtrimmer/Library/Mobile Documents/com~apple~CloudDocs/school/2017_2018/spring_2018/ece_4122/exercises/e2/e2.h
+vector
+-
+future
+-
+
+/Users/williamtrimmer/Library/Mobile Documents/com~apple~CloudDocs/school/2017_2018/spring_2018/ece_4122/exercises/e2/main.cc
+iostream
+-
+vector
+-
+algorithm
+-
+chrono
+-
+random
+-
+e2.h
+/Users/williamtrimmer/Library/Mobile Documents/com~apple~CloudDocs/school/2017_2018/spring_2018/ece_4122/exercises/e2/e2.h
+
